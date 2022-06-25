@@ -84,5 +84,4 @@ GENRES = ["fun, fact",
          "Thriller, Comedy",
          "Drama, Comedy",
          "Family, Drama",
-         "Action, Adventure",
-GENRES = [MD_verified ]
+         "Action, Adventure"]

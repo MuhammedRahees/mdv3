@@ -7,7 +7,8 @@ from .Utils import (
 )
 from .Channel import (
    RATING,
-   GENRES
+   GENRES,
+   YEAR
 )
 
 HELP = """
